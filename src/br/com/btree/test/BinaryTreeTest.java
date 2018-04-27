@@ -4,6 +4,10 @@ import br.com.btree.model.BinaryTree;
 
 public class BinaryTreeTest {
 
+    /***
+     * Exemplo de árvore binária para cálculo
+     * @return árvore preenchida
+     */
     public static BinaryTree generateBinaryTree(){
 
         BinaryTree b1 = new BinaryTree();
